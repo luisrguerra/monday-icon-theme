@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <rect style="opacity:0.2" width="20" height="12" x="2" y="9.5" rx="1" ry="1"/>
- <path style="fill:#e19d00" d="M 2,17 C 2,17.554 2.446,18 3,18 H 21 C 21.554,18 22,17.554 22,17 V 6 C 22,5.446 21.554,5 21,5 H 12 C 10.5,5 10,3 8.5,3 H 3 C 2.446,3 2,3.446 2,4"/>
- <rect style="opacity:0.2" width="20" height="12" x="2" y="8.5" rx="1" ry="1"/>
- <rect style="fill:#e4e4e4" width="16" height="8" x="4" y="7" rx="1" ry="1"/>
- <rect style="fill:#f9bd30" width="20" height="12" x="2" y="9" rx="1" ry="1"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 3,3 C 2.446,3 2,3.446 2,4 V 4.5 C 2,3.946 2.446,3.5 3,3.5 H 8.5 C 10,3.5 10.5,5.5 12,5.5 H 21 C 21.554,5.5 22,5.946 22,6.5 V 6 C 22,5.446 21.554,5 21,5 H 12 C 10.5,5 10,3 8.5,3 Z"/>
- <path style="fill:#594411" d="M 13,11 V 14 H 14.25 L 12,17.5 9.75,14 H 11 V 11 Z M 9,18 H 15 V 19 H 9 Z"/>
-</svg>
+<svg height="8px" width="8px" id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8 8"><defs><style>.cls-1{fill:#edb51f;}.cls-2{fill:#e6a928;}.cls-3{fill:url(#Gradiente_sem_nome_5);}</style><linearGradient id="Gradiente_sem_nome_5" x1="1.8115" y1="2.3769" x2="6.3731" y2="6.9385" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffe599"/><stop offset="1" stop-color="#ffc938"/></linearGradient></defs><path class="cls-1" d="M6.2941,2H4l-.7618-.7618A.8134.8134,0,0,0,2.6631,1H1.3765A.3765.3765,0,0,0,1,1.3765V3.918A.082.082,0,0,0,1.082,4H6.918A.082.082,0,0,0,7,3.918V2.7059A.7058.7058,0,0,0,6.2941,2Z"/><path class="cls-2" d="M1,6H7A0,0,0,0,1,7,6v.68A.32.32,0,0,1,6.68,7H1.32A.32.32,0,0,1,1,6.68V6A0,0,0,0,1,1,6Z"/><path class="cls-3" d="M6.455,2.5H4.7038a.864.864,0,0,0-.3861.0911l-.7126.3564A.4983.4983,0,0,1,3.3825,3H1.3215A.3216.3216,0,0,0,1,3.3215V6.1784A.3216.3216,0,0,0,1.3216,6.5H6.6785A.3216.3216,0,0,0,7,6.1785V3.045A.545.545,0,0,0,6.455,2.5Z"/></svg>
