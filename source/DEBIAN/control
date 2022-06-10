@@ -1,0 +1,8 @@
+Source: monday-icon-theme
+Priority: optional
+Maintainer: Luis Guerra
+Version: 0.2
+Essential: no
+Package: monday-icon-theme
+Architecture: all
+Description: Monday icon theme.
