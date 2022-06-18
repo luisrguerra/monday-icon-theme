@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect style="opacity:0.2" width="56" height="56" x="4" y="5" rx="3" ry="3"/>
- <rect style="fill:#37a0f2" width="56" height="56" x="4" y="4" rx="3" ry="3"/>
- <path style="opacity:0.2" d="m 29,52 v -1 h 6 v 1 z M 29,19.999 V 19 h 6 v 0.999 z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 7 4 C 5.338 4 4 5.338 4 7 L 4 8 C 4 6.338 5.338 5 7 5 L 57 5 C 58.662 5 60 6.338 60 8 L 60 7 C 60 5.338 58.662 4 57 4 L 7 4 z"/>
- <path style="fill:#ffffff" d="M 29,51 V 24.9999 h 6 V 51 Z m 0,-32.001 v -6 h 6 v 6 z"/>
-</svg>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8 8"><defs><style>.cls-1{fill:url(#Gradiente_sem_nome);}.cls-2{fill:#fff;}</style><linearGradient id="Gradiente_sem_nome" x1="4.4994" y1="6.0632" x2="11.5006" y2="-6.0632" gradientTransform="matrix(0.5, 0, 0, -0.5, 0, 4)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#199ae1"/><stop offset="1" stop-color="#017ad5"/></linearGradient></defs><circle class="cls-1" cx="4" cy="4" r="3.5"/><path class="cls-2" d="M4,3.5H4a.5.5,0,0,1,.5.5V5.5A.5.5,0,0,1,4,6H4a.5.5,0,0,1-.5-.5V4A.5.5,0,0,1,4,3.5Z"/><path class="cls-2" d="M4,2H4a.5.5,0,0,1,.5.5h0A.5.5,0,0,1,4,3H4a.5.5,0,0,1-.5-.5h0A.5.5,0,0,1,4,2Z"/></svg>
