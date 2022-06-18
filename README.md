@@ -2,7 +2,9 @@
 
 Fluent design icon theme, inspired by Microsoft Fluent Design System and Material Design from Google. All icons were made in vector format and don't use extracted icons from proprietary software.
 
-<img src="https://user-images.githubusercontent.com/31783838/174442701-f4b520d7-251f-4ffe-ad68-1af74248c21e.png" style="height: 200px;"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31783838/174442701-f4b520d7-251f-4ffe-ad68-1af74248c21e.png" style="height: 200px;"/>
+</p>
 
 ### Compatibility:
 
