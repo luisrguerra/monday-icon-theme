@@ -8,11 +8,11 @@ Fluent design icon theme, inspired by Microsoft Fluent Design System and Materia
 
 Recommended Linux desktop environments: Gnome, Cinnamon, Xfce, Mate and Budgie.
 
-Recommended Linux distributions: Zorin OS(Works better), Ubuntu, Ubuntu Budgie, Fedora, Pop!_OS ,Linux Mint.
+Recommended Linux distributions: Zorin OS(Works better), Linux Mint(Works good), Ubuntu, Ubuntu Budgie, Fedora, Pop!_OS, Manjaro Gnome, Manjaro XFCE.
 
 Not recommended Linux desktop environments: KDE PLasma (Visual glitches and missing icons).
 
-Not recommended Linux distributions: Elementary OS ( Missing icons and can cause difficulties to use the system ), Kubuntu and KDE Neon.
+Not recommended Linux distributions: Elementary OS ( Missing icons and can cause difficulties to use the system ), Manjaro KDE, Kubuntu and KDE Neon.
 
 ### Credit:
 
