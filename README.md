@@ -16,7 +16,7 @@ Not recommended Linux distributions: Elementary OS ( Missing icons and can cause
 
 ### How to install:
 - Open the terminal inside the theme folder
-Enter the command to open the installation shell script:
+- Enter the command to open the installation shell script:
 > sh install.sh
 - Enter your password to give access to write the files on your system
 - Install Gnome Tweaks or similar if necessary (Linux Mint and Zorin OS don't need)
