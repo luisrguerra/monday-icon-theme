@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect fill="#37a0f2" width="16" height="16" x="0" y="0" rx=".857" ry=".857"/>
- <path fill="#fff" d="m7 2.1055v1.8945h2v-1.8945h-2zm0 3.8945v8h2v-8h-2z"/>
-</svg>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8 8"><defs><style>.cls-1{fill:url(#Gradiente_sem_nome);}.cls-2{fill:#fff;}</style><linearGradient id="Gradiente_sem_nome" x1="4.4994" y1="6.0632" x2="11.5006" y2="-6.0632" gradientTransform="matrix(0.5, 0, 0, -0.5, 0, 4)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#199ae1"/><stop offset="1" stop-color="#017ad5"/></linearGradient></defs><circle class="cls-1" cx="4" cy="4" r="3.5"/><path class="cls-2" d="M4,3.5H4a.5.5,0,0,1,.5.5V5.5A.5.5,0,0,1,4,6H4a.5.5,0,0,1-.5-.5V4A.5.5,0,0,1,4,3.5Z"/><path class="cls-2" d="M4,2H4a.5.5,0,0,1,.5.5h0A.5.5,0,0,1,4,3H4a.5.5,0,0,1-.5-.5h0A.5.5,0,0,1,4,2Z"/></svg>
